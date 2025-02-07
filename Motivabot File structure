@@ -1,0 +1,7 @@
+Motivabot/
+├── index.html
+├── script.js
+├── styles.css
+├── responses.json
+├── tone_analysis.json
+└── README.md
